@@ -1,0 +1,57 @@
+<ion-view>
+    <ion-content>
+        <div class="bar bar-header item-input-inset">
+            <label class="item-input-wrapper">
+                <i class="icon ion-ios-search placeholder-icon"></i>
+                <input type="search" placeholder="Enter a GitHub Username" ng-model="vm.searchTerm">
+            </label>
+            <button class="button button-clear" ng-click="vm.getUserInfo()">
+                Search
+            </button>
+        </div>
+        <ion-list ng-show="vm.userInfo">
+            <a class="item item-icon-left" href="#">
+                <i class="icon ion-person"></i>
+                Name
+                <span class="item-note">
+                  {{vm.userInfo.name}}
+                </span>
+            </a>
+            <a class="item item-icon-left" href="#">
+                <i class="icon ion-ios-people"></i>
+                Followers
+                <span class="item-note">
+                  {{vm.userInfo.followers}}
+                </span>
+            </a>
+            <a class="item item-icon-left" href="#">
+                <i class="icon ion-person-stalker"></i>
+                Following
+                <span class="item-note">
+                  {{vm.userInfo.following}}
+                </span>
+            </a>
+            <a class="item item-icon-left" href="#">
+                <i class="icon ion-social-github"></i>
+                Repo Count
+                <span class="item-note">
+                  {{vm.userInfo.public_repos}}
+                </span>
+            </a>
+            <a class="item item-icon-left" href="#">
+                <i class="icon ion-social-github-outline"></i>
+                Gists Count
+                <span class="item-note">
+                  {{vm.userInfo.public_gists}}
+                </span>
+            </a>
+            <a class="item item-icon-left" href="#">
+                <i class="icon ion-person-add"></i>
+                Hireable?
+                <span class="item-note">
+                  {{vm.userInfo.hireable ? 'Yes' : 'No'}}
+                </span>
+            </a>
+        </ion-list>
+    </ion-content>
+</ion-view>

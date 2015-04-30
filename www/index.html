@@ -20,15 +20,16 @@
 
     <!-- your app's js -->
     <script src="app/app.js"></script>
+    <script src="app/controllers/github-controller.js"></script>
+    <script src="app/services/github-service.js"></script>
   </head>
   <body ng-app="githubHelper">
 
     <ion-pane>
       <ion-header-bar class="bar-stable">
-        <h1 class="title">Ionic Blank Starter</h1>
+        <h1 class="title">GitHub Helper</h1>
       </ion-header-bar>
-      <ion-content>
-      </ion-content>
+        <ion-nav-view></ion-nav-view>
     </ion-pane>
   </body>
 </html>

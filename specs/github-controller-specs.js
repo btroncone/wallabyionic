@@ -6,7 +6,7 @@ describe('The GitHubController', function(){
 
     beforeEach(function(){
         bard.appModule('githubHelper');
-        bard.inject('$controller', '$q', '$rootScope', 'GitHubService');
+        bard.inject('$controller', '$q', '$rootScope', '$ionicPopup', 'GitHubService');
         bard.mockService(GitHubService,{
             getBaseInfoByUsername: $q.when(mockUser)
         });

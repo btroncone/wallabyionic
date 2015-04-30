@@ -3,13 +3,13 @@
         .module('githubHelper')
         .controller('GitHubController', GitHubController);
 
-    GitHubController.$inject = ['GitHubService'];
+    GitHubController.$inject = ['GitHubService', '$ionicPopup'];
 
-    function GitHubController(GitHubService){
+    function GitHubController(GitHubService, $ionicPopup){
         var vm = this;
 
         vm.searchTerm = "";
-        vm.userInfo = {};
+        vm.userInfo = null;
         vm.getUserInfo = getUserInfo;
 
         function getUserInfo(){
@@ -21,7 +21,13 @@
             }
 
             function failure(error){
-                console.log(error);
+                var alertPopup = $ionicPopup.alert({
+                    title: error
+                });
+                alertPopup.then(function() {
+                    console.log('Popup dismissed!');
+                });
+
             }
         }
 
