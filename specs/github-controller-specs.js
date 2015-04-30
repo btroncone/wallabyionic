@@ -6,7 +6,7 @@ describe('The GitHubController', function(){
 
     beforeEach(function(){
         bard.appModule('githubHelper');
-        bard.inject('$controller', '$q', '$rootScope', '$ionicPopup', 'GitHubService');
+        bard.inject('$controller', '$q', '$rootScope', '$ionicPopup', 'GitHubService', '$httpBackend');
         bard.mockService(GitHubService,{
             getBaseInfoByUsername: $q.when(mockUser)
         });
@@ -21,6 +21,9 @@ describe('The GitHubController', function(){
 
         beforeEach(function(){
            GitHubController.searchTerm = sampleSearchTerm;
+            //hack to prevent template caching from failing test
+            //http://stackoverflow.com/questions/29424792/why-does-httpbackend-flush-result-in-unexpected-request
+            $httpBackend.whenGET(/^\app\//).respond(200, '');
         });
 
         it('should call the GitHubService with the appropriate search term', function(){

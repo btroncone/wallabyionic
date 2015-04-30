@@ -7,6 +7,9 @@ describe('The GitHubService', function(){
     beforeEach(function(){
         bard.appModule('githubHelper');
         bard.inject('GitHubService', '$q', '$httpBackend');
+        //hack to prevent template caching from failing test
+        //http://stackoverflow.com/questions/29424792/why-does-httpbackend-flush-result-in-unexpected-request
+        $httpBackend.whenGET(/^\app\//).respond(200, '');
     });
 
     it('should exist as a service', function(){
