@@ -4,6 +4,7 @@ module.exports = function () {
       "www/lib/ionic/js/ionic.bundle.js",
       "www/lib/angular-mocks/angular-mocks.js",
       "www/lib/sinon/index.js",
+      "www/lib/jasmine-sinon/lib/jasmine-sinon.js",
       "www/lib/bardjs/dist/bard.js",
       "www/app/**/*.js"
     ],

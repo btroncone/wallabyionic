@@ -16,4 +16,4 @@ angular.module('githubHelper', ['ionic'])
       StatusBar.styleDefault();
     }
   });
-})
+});

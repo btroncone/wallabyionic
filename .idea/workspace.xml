@@ -2,7 +2,219 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fee2b8e8-5535-40be-990e-3c873a2f2391" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wallaby.json" afterPath="$PROJECT_DIR$/wallaby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/images/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/images/jasmine-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-1.0.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-1.1.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-1.2.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-1.3.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-1.3.1.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-2.0.0.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-2.0.1.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-2.0.2.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/dist/jasmine-standalone-2.0.3.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/images/jasmine_favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sinonjs/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/release_notes/2.0.1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/release_notes/2.0.2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/release_notes/20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Any.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/AnySpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/helpers/BrowserFlags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/CallTracker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/CallTrackerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Clock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ClockSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/console/ConsoleReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/console/ConsoleReporterSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/integration/CustomMatchersSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/DelayedFunctionScheduler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/DelayedFunctionSchedulerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/EnvSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/integration/EnvSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/ExceptionFormatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ExceptionFormatterSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ExceptionsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Expectation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/ExpectationResult.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ExpectationResultSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ExpectationSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/GOALS_2.0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/HtmlReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/html/HtmlReporterSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/HtmlSpecFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/html/HtmlSpecFilterSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/JsApiReporter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/JsApiReporterSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/MIT.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/html/MatchersHtmlSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/MockDate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/MockDateSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/ObjectContaining.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ObjectContainingSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/node_example/src/Player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/src/Player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/node_example/spec/PlayerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/spec/PlayerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/html/PrettyPrintHtmlSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/PrettyPrintSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/PrettyPrinter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/QueryString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/html/QueryStringSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/QueueRunner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/QueueRunnerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sinonjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/RELEASE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/ReportDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/ReportDispatcherSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/ResultsNode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/html/ResultsNodeSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/node_example/src/Song.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/src/Song.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/node_example/spec/SpecHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/example/spec/SpecHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/templates/SpecRunner.html.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/integration/SpecRunningSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/SpecSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/SpySpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/SpyStrategy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/SpyStrategySpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Suite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/SuiteSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/Timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/TimerSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/UtilSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/_HTMLReporter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/boot/boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sinonjs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/tasks/build_standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/config/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/config/compress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/config/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/console/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/helpers/defineJasmineUnderTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/templates/example_project_jasmine_tags.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/existing-method-spy-matchers.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gitHubHelper_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specs/github-service-specs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app/services/github-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/individual-spy-calls.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/jasmine-core.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/images/jasmine-horizontal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/jasmine-matchers-compatibility.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/support/jasmine-performance.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/support/jasmine-performance.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/lib/jasmine-sinon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/support/jasmine.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/jasmine.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/support/jasmine.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/javascripts/support/jasmine_selenium_runner.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/config/jshint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/karma.conf.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/performance/large_object_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/templates/licenseBanner.js.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/matchersUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/matchersUtilSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/message-factories.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/helpers/nodeDefineJasmineUnderTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/node_boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/boot/node_boot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/overwritten-jasmine-matchers.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/performance/performance_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/console/requireConsole.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/requireCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/html/requireHtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/requireInterface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/requireMatchers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/sinonjs/sinon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/spy-matchers.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine-sinon/spec/test-stubs.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeCloseTo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeCloseToSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeDefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeDefinedSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeFalsy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeFalsySpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeGreaterThan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeGreaterThanSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeLessThan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeLessThanSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeNaN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeNaNSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeNull.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeNullSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeTruthy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeTruthySpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toBeUndefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toBeUndefinedSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toContain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toContainSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toEqual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toEqualSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toHaveBeenCalled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toHaveBeenCalledSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toHaveBeenCalledWith.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toHaveBeenCalledWithSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toMatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toMatchSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toThrow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/matchers/toThrowError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toThrowErrorSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/spec/core/matchers/toThrowSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/travis-core-script.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/travis-docs-script.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/travis-node-script.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/core/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/templates/version.js.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/tasks/version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/src/templates/version.rb.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/grunt/templates/version.rb.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jasmine/lib/jasmine-core/version.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/app.js" afterPath="$PROJECT_DIR$/www/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gitHubHelper.iml" afterPath="$PROJECT_DIR$/.idea/gitHubHelper.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/specs/github-controller-specs.js" afterPath="$PROJECT_DIR$/specs/github-controller-specs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/app/controllers/github-controller.js" afterPath="$PROJECT_DIR$/www/app/controllers/github-controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallaby.js" afterPath="$PROJECT_DIR$/wallaby.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gitHubHelper.iws" />
@@ -24,11 +236,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wallaby.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wallaby.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wallaby.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46961325">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="github-controller-specs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specs/github-controller-specs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="github-service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/services/github-service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="github-service-specs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specs/github-service-specs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3181818">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="github-controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/controllers/github-controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,14 +332,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/specs/gitHub-controller.js" />
-        <option value="$PROJECT_DIR$/www/app/app.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/lib/sinon/index.js" />
         <option value="$PROJECT_DIR$/wallaby.json" />
-        <option value="$PROJECT_DIR$/www/app/controllers/github-controller.js" />
         <option value="$PROJECT_DIR$/karma.conf.js" />
-        <option value="$PROJECT_DIR$/specs/github-controller-specs.js" />
         <option value="$PROJECT_DIR$/wallaby.js" />
+        <option value="$PROJECT_DIR$/www/app/controllers/github-controller.js" />
+        <option value="$PROJECT_DIR$/specs/github-controller-specs.js" />
+        <option value="$PROJECT_DIR$/specs/github-service-specs.js" />
+        <option value="$PROJECT_DIR$/www/app/services/github-service.js" />
+        <option value="$PROJECT_DIR$/www/app/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -70,13 +355,17 @@
       </GulpfileState>
     </gulpfiles>
   </component>
+  <component name="JsKarmaPackageDirSetting">
+    <data>$PROJECT_DIR$/node_modules/karma</data>
+  </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="x" value="-1920" />
+    <option name="y" value="-697" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -115,18 +404,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wallabyionic-project" />
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitHubHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -141,13 +538,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Wallaby.js.wallaby">
-    <configuration default="false" name="github-controller-specs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="github-controller-specs.js" working-dir="$PROJECT_DIR$/specs">
-      <method />
-    </configuration>
-    <configuration default="false" name="karma.conf.js" type="JavaScriptTestRunnerKarma" factoryName="Karma" temporary="true" config-file="$PROJECT_DIR$/karma.conf.js">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -192,17 +582,9 @@
     <configuration default="false" name="wallaby" type="wallaby" factoryName="Wallaby.js" config="$PROJECT_DIR$/wallaby.js">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.github-controller-specs.js" />
-      <item index="1" class="java.lang.String" itemvalue="Karma.karma.conf.js" />
-      <item index="2" class="java.lang.String" itemvalue="Wallaby.js.wallaby" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Wallaby.js.wallaby" />
     </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Karma.karma.conf.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.github-controller-specs.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -218,27 +600,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1920" y="-697" width="1920" height="1053" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18252291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17798841" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39958376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32880098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34027055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -259,11 +641,74 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wallaby.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/github-controller-specs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/services/github-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/github-service-specs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/github-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wallaby.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/lib/sinon/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -291,21 +736,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/lib/bardjs/dist/bard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="272" column="0" selection-start-line="272" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -321,15 +755,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -337,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2311" column="18" selection-start-line="2311" selection-start-column="18" selection-end-line="2311" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -353,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,15 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -377,40 +792,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="272" column="0" selection-start-line="272" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.16">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2866242">
-          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding>
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1430004962000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/app/controllers/github-controller.js">
+    <entry file="file://$PROJECT_DIR$/wallaby.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -418,23 +814,47 @@
     <entry file="file://$PROJECT_DIR$/specs/github-controller-specs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/github-service-specs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/controllers/github-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/services/github-service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.115830116">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wallaby.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46961325">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.3181818">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
